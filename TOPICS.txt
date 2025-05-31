@@ -1,1 +1,1 @@
-keyboard, keymap, layers, qmk, via, programmable, ergonomic, macros, open-source, productivity
+keyboard, layout, macros, qmk, via, ergonomic, open-source, firmware, productivity, keymap

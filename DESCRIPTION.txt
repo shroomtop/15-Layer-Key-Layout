@@ -1,1 +1,1 @@
-A high-performance, 15-layer programmable keyboard layout system for QMK, VIA, and open-source firmware.
+A modular, high-performance 15-layer keyboard layout engine designed for programmable firmware (QMK, VIA), enabling advanced ergonomic keymapping, productivity macros, and instant context switching.

@@ -1,11 +1,11 @@
-| Element         | Action/Value         | Notes                                                   |
-|-----------------|---------------------|---------------------------------------------------------|
-| README.md       | Added (see above)   | Best-practice, project-specific                         |
-| LICENSE         | Already present     | MIT                                                     |
-| .gitignore      | Added               | OS/editor/firmware safe                                 |
-| Description     | Added               | Succinct, SEO-rich                                      |
-| Topics          | Added               | 10+ tags, discoverable                                  |
-| Homepage        | Added               | GH Pages URL (customize if needed)                      |
-| Release         | Suggested           | v1.0.0, initial                                         |
-| Badges          | Added (README top)  | MIT, commit, issues, stars                              |
-| GitHub Actions  | Added (ci.yml)      | Lints, validates, ready for extension                   |
+| Element         | Status         | Notes                                                             |
+|-----------------|----------------|-------------------------------------------------------------------|
+| README.md       | ✔ Present       | Already exists                                                    |
+| LICENSE         | ✔ Present       | MIT                                                               |
+| .gitignore      | ✔ Present       | Editor + firmware safe                                            |
+| Description     | 🆕 Added        | SEO-friendly and descriptive                                      |
+| Topics          | 🆕 Added        | 10+ discoverability keywords                                      |
+| Homepage        | 🆕 Added        | GitHub Pages or Shroomtop site                                    |
+| Release         | 🆕 Suggested    | v1.0.0 — initial scaffolding release                              |
+| Badges          | 🆕 Added        | Shields.io integration, GitHub metadata                          |
+| GitHub Actions  | 🆕 Added        | Simple CI for README + layout validation                          |

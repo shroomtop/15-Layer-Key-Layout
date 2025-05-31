@@ -1,6 +1,8 @@
-## v1.0.0 — Initial Release
+## 🚀 v1.0.0 — Initial Release
 
-- 15-layer key layout system scaffolding
-- Example keymaps for major platforms
-- Compatibility with QMK, VIA, and custom firmware
-- Documentation and contribution guide
+This first official release includes:
+
+- Full 15-layer programmable layout scaffolding
+- Optimized keymap configurations for QMK and VIA
+- `.gitignore`, `README.md`, and MIT License
+- Contribution guide and extensible architecture for future layouts
