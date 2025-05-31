@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.hex
+*.bin
+*.uf2
+*.eep
+.vscode/
+*.code-workspace
+build/
+dist/
+out/
+*.log
+*.obj
+*.swp
+*.swo
